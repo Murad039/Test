@@ -1,4 +1,4 @@
 
 
-Learning git amd github as a beginner
+Learning git amd github as a beginner.
 
